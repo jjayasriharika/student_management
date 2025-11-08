@@ -1,4 +1,4 @@
 flask
-flask-wtf
+flask_wtf
 Flask-SQLAlchemy
 gunicorn
